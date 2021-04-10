@@ -40,10 +40,7 @@ div {
     background-color: rgb(255, 255, 255);
 }
 
-a:hover {
-    color: #a79eff;
-    text-decoration: none; 
-}
+
 
 .algo {
     width: 45%;
@@ -56,4 +53,8 @@ button {
     width: 5em;
     box-shadow: 1px 1px 2px 1px rgb(231, 231, 231);
     border: none ;
+}
+a:hover {
+    color: #a79eff;
+    text-decoration: none; 
 }
