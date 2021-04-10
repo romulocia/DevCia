@@ -9,7 +9,7 @@ body {
 
 main {
     background-color: rgb(255, 255, 255);
-    width: 500px;
+    width: 70%;
     margin: auto;
     box-shadow: 3px 3px 5px rgb(167, 167, 167);
 }
