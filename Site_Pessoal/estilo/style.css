@@ -1,15 +1,59 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
 }
 
 body {
-    background-color: rgb(219, 219, 219);
+    background-color: rgb(255, 255, 255);
 }
 
 main {
     background-color: rgb(255, 255, 255);
     width: 70%;
     margin: auto;
-    box-shadow: 3px 3px 5px rgb(167, 167, 167);
+    border-radius: 1em;
+    padding: 2em;
+    box-shadow: 3px 3px 5px 3px rgb(235, 235, 235);
+}
+
+h1 {
+    font-size: 80px;
+    margin: center;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    width: 63%;
+    margin: auto;
+    border-radius: 1em;
+    padding: 2em;
+    box-shadow: 3px 3px 5px 3px rgb(235, 235, 235);
+}
+.titulo {
+    background-color: aquamarine;
+    width: 80%;
+}
+
+.botao {
+    width: 42%;
+    border-radius: 1em;
+    padding: 1em;
+    background-color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: #a79eff;
+    text-decoration: none; 
+}
+
+.algo {
+    width: 45%;
+    margin: center;
+    margin-top: 5em;
+}
+
+button {
+    height: 3em;
+    width: 5em;
+    box-shadow: 1px 1px 2px 1px rgb(231, 231, 231);
+    border: none ;
 }
