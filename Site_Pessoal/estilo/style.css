@@ -1,35 +1,36 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(10, 10, 10);
 }
 
 main {
-    background-color: rgb(255, 255, 255);
-    width: 70%;
-    margin: auto;
+    background-color: rgb(0, 0, 0);
+    width: auto;
+    margin: 2em;
     border-radius: 1em;
     padding: 2em;
-    box-shadow: 3px 3px 5px 3px rgb(235, 235, 235);
+   
 }
 
 h1 {
     font-size: 80px;
-    margin: center;
+    color: coral;
 }
 
 div {
-    background-color: rgb(255, 255, 255);
-    width: 63%;
+    background-color: rgb(20, 20, 20);
+    width: auto;
     margin: auto;
     border-radius: 1em;
     padding: 2em;
-    box-shadow: 3px 3px 5px 3px rgb(235, 235, 235);
+    
 }
 .titulo {
-    background-color: aquamarine;
+    background-color: rgb(20);
     width: 80%;
 }
 
@@ -37,7 +38,7 @@ div {
     width: 42%;
     border-radius: 1em;
     padding: 1em;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(20);
 }
 
 
@@ -51,10 +52,12 @@ div {
 button {
     height: 3em;
     width: 5em;
-    box-shadow: 1px 1px 2px 1px rgb(231, 231, 231);
+    background-color: coral;
     border: none ;
+    border-radius: 1em;
+    text-decoration: none ;
 }
 a:hover {
-    color: #a79eff;
+  
     text-decoration: none; 
 }
