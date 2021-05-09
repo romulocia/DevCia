@@ -1,2 +1,2 @@
-# Portfolio
- Projetos em HTML, CSS e JS.
+# Treining Front End
+ Projects in HTML, CSS e JS.
