@@ -1,2 +1,2 @@
-# Treining Front End
- Projects in HTML, CSS e JS.
+# DevCia
+ Project in HTML, CSS and JS.
